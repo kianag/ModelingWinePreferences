@@ -1,5 +1,6 @@
 # ModelingWinePreferences
 Overview: Build a model that relates objective features of the wine (e.g., pH values) to its rated quality
+- Easier to view than above / includes graphs: https://nbviewer.jupyter.org/github/kianag/ModelingWinePreferences/blob/master/165_project.ipynb
 
 - **For:** UC Berkeley IEOR 165 Course Project 
 - **Research Paper:** "Modeling wine preferences by data miningfrom physicochemical properties” by Cortez, A. Cerdeira, F. Almeida, T. Matos, and J. Reis
